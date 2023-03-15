@@ -1,1 +1,1 @@
-# StepikPython-Selenium
+<h1>Мои решения задач из курса Stepik "Автоматизация тестирования с помощью Selenium и Python"</h1>
